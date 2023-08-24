@@ -17,6 +17,8 @@ const client = new MongoClient(uri, {
 
 async function run() {
   try {
+    client.connect();
+
     const database = client.db("doctors_portal").collection("services");
     const bookingsDetails = client.db("doctors_portal").collection("bookings");
     const userCollection = client.db("doctors_portal").collection("users");
