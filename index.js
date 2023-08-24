@@ -185,7 +185,7 @@ async function run() {
         );
       }
     });
-    // await client.connect();
+    await client.connect();
     // client.connect();
   } finally {
     // await client.close();
