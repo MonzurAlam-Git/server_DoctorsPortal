@@ -12,7 +12,8 @@ Welcome to SmileCraft Dentistry's Doctors Portal Server! This server is designed
 
 Access the live Doctors Portal at [Live Link](https://doctorsportal-11797.web.app/).
 
-## Server [Server Link](https://server-doctors-portal.vercel.app)
+## Live Server : 
+[Live Server Link](https://server-doctors-portal.vercel.app)
 
 ## API End Points 
 
