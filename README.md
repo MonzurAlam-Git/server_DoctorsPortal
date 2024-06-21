@@ -73,8 +73,6 @@ verifyJWT: This middleware is used to verify JWT tokens and protect specific end
 ## Packages Used
 The server utilizes the following packages along with their version numbers:
 
-Express: 4.17.1
-Mongoose: 5.12.13
-JWT: 8.5.1
-bcryptjs: 2.4.3
+Express: 4.17.1
+JWT: 8.5.1
 dotenv: 10.0.0
